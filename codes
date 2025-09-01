@@ -1,6 +1,5 @@
 {
-  "codes": {
-    "WELCOME2025": {
+ "WELCOME2025": {
       "rewards": {
         "gems": 100,
         "coins": 500
@@ -27,7 +26,4 @@
       "description": "Code for new players",
       "maxUses": null
     }
-  },
-  "lastUpdated": "2025-01-02T10:00:00Z",
-  "version": "1.0"
 }
