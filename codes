@@ -1,0 +1,23 @@
+{
+  "codes": {
+    "WELCOME2025": {
+      "rewards": {
+        "gems": 100,
+        "coins": 500
+      },
+          
+      "expiry": null,
+      "description": "Welcome bonus code"
+    },
+          
+    "TESTCODE": {
+      "rewards": {
+        "gems": 250,
+        "experience": 1000
+      },
+          
+      "expiry": 1735689600,
+      "description": "Limited time test code"
+    }
+  },
+}
