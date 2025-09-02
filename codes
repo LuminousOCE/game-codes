@@ -1,5 +1,4 @@
 {
-  "codes": {
     "WELCOME2025": {
       "Rewards": {
         "Item": "Welcome Gift Box",
@@ -99,6 +98,4 @@
       "Icon": "🌟",
       "Color": "#FF69B4"
     }
-  },
-  "lastUpdated": "2025-01-02T10:00:00Z"
 }
