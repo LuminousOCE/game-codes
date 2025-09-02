@@ -1,29 +1,12 @@
 {
  "WELCOME2025": {
-      "rewards": {
-        "gems": 100,
-        "coins": 500
+      "Rewards": {
+        "Item": "Reward Item",
+        "Booster": "15 mins,
       },
-      "expiry": null,
-      "description": "Welcome bonus code",
-      "maxUses": null
+
+      "Expiry": null,
+      "Description": "Welcome code example",
+      "MaxUses": null
     },
-    "TESTCODE": {
-      "rewards": {
-        "gems": 250,
-        "coins": 1000
-      },
-      "expiry": 1738454400,
-      "description": "Limited time test code",
-      "maxUses": 100
-    },
-    "NEWPLAYER": {
-      "rewards": {
-        "gems": 50,
-        "experience": 500
-      },
-      "expiry": null,
-      "description": "Code for new players",
-      "maxUses": null
-    }
 }
