@@ -1,8 +1,10 @@
 {
-  "TESTCODE": {
+  Codes = {
+"TESTCODE": {
     "Rewards": {
       "Gold": 100
     },
     "Description": "Test code"
+  }  
   }
 }
