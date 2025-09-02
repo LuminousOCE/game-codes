@@ -1,12 +1,16 @@
 {
- "WELCOME2025": {
+    "SPEEDRUN": {
       "Rewards": {
-        "Item": "Reward Item",
-        "Booster": "15 mins,
+        "Item": "Speed Boots",
+        "Booster": {
+          "Type": "Triple XP",
+          "Multiplier": 3.0,
+          "Duration": 900
+        },
+        "Gold": 25
       },
-
-      "Expiry": null,
-      "Description": "Welcome code example",
-      "MaxUses": null
+      "Expiry": 1735689600,
+      "Description": "Short but powerful XP boost",
+      "MaxUses": 100
     },
 }
